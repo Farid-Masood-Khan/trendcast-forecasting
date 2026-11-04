@@ -1,0 +1,2 @@
+"""TrendCast forecasting package."""
+
