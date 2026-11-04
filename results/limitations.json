@@ -1,0 +1,6 @@
+{
+  "shock_blindness": "Extrapolation fails during exogenous shocks. During the 2022 super-floods, monthly price volatility rose 2.24x from normal.",
+  "sparse_markets": "Markets with <24 monthly observations are refused forecasts by the FR-8 guard.",
+  "short_history_intervals": "Calibrated prediction intervals widen substantially when history is short.",
+  "baseline_dominance": "On certain commodities, naive or seasonal-naive models remain competitive with complex models, which is transparently displayed in the dashboard comparison table."
+}
