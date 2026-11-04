@@ -1,0 +1,15 @@
+{
+  "snapshot_version": 1,
+  "created_at": "2026-11-02T21:13:34.052463+00:00",
+  "sources": [
+    {
+      "source": "WFP_HDX",
+      "name": "WFP Food Prices for Pakistan",
+      "url": "https://data.humdata.org/dataset/125455ff-c8a8-4f4b-9190-bf0e84559dc7/resource/8cf7a8a2-58a1-4c3f-bafe-f38af68d971b/download/wfp_food_prices_pak.csv",
+      "retrieved_at": "2026-11-02",
+      "sha256": "139bef16505abcc6156933e079c9fb94585de1bf3115c6dd43f488391e006a8d",
+      "rows": 13716,
+      "filename": "wfp_food_prices_pakistan.csv"
+    }
+  ]
+}

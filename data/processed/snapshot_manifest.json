@@ -1,0 +1,8 @@
+{
+  "snapshot_version": 1,
+  "created_at": "2026-11-02T21:14:29.026070+00:00",
+  "n_series": 8,
+  "n_observations": 1527,
+  "source": "WFP_HDX",
+  "source_url": "https://data.humdata.org/dataset/125455ff-c8a8-4f4b-9190-bf0e84559dc7/resource/8cf7a8a2-58a1-4c3f-bafe-f38af68d971b/download/wfp_food_prices_pak.csv"
+}
